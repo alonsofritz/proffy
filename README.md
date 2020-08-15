@@ -100,7 +100,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 </br>
 
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".github/logo.svg">
+    <img alt="Logo" title="#logo" width="250px" src=".github/logo.svg">
 </h3>
 
 <p align="center">
